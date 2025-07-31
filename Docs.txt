@@ -1,0 +1,40 @@
+🔍 What the project does:
+It’s a console-based application where you can:
+
+➕ Add new student records
+
+📋 View all students
+
+✏️ Update student details
+
+❌ Delete records from the database
+
+🛠 Tech Stack Used:
+
+Java (Core Concepts: Classes, Objects, OOP)
+
+MySQL (Database)
+
+JDBC (Java Database Connectivity)
+
+📌 Key Features:
+
+Proper database integration using JDBC
+
+Modular design with DAO pattern
+
+Input from users via console
+
+Clean and readable code for easy understanding
+
+💡 What I Learned:
+
+Writing secure and efficient SQL queries with PreparedStatements
+
+Managing Java-to-Database connections
+
+Error handling and debugging
+
+Importance of clean code structure in real-world projects
+
+I’ve built this project to strengthen my backend development skills and prepare for real-world Java developer roles.
